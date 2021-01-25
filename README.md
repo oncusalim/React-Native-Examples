@@ -1,7 +1,7 @@
 # React-Native-Examples
 This repository contains basic example of React-Native 
 
-![](hello.png). ![](image/custom-component.png)
+![](hello.png). ![](images/custom-component.png)
 (First Hello Page)
 
 
