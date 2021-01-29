@@ -4,12 +4,12 @@ This repository contains basic example of React-Native.
 2) Simple custom component structure.
 3) Flex style samples.
 <div>
-<img src="images/hello.png" width="200" height="600">
-<img src="images/custom-component.png" width="200" height="600" >
-<img src="images/flex.png" width="200" height="600" >
+<img src="images/hello.png" width="250" height="600">
+<img src="images/custom-component.png" width="300" height="700" >
+<img src="images/flex.png" width="300" height="700" >
   </div>
 
 
 
 
-https://github.com/oncusalim/React-Native-Examples/issues/1#issue-792761626
+
