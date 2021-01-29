@@ -5,6 +5,7 @@ This repository contains basic example of React-Native.
 
 
 ![](hello.png). ![](images/custom-component.png)
+![](images/flex.png)
 
 
 
