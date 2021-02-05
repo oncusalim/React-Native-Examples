@@ -9,6 +9,7 @@ This repository contains basic example of React-Native.
 <img src="images/custom-component.png" width="300" height="600" >
 <img src="images/flex.png" width="300" height="600" >
   <img src="images/props-component.png" width="300" height="600" >
+  ![caption](images/counter.mov / GIF)
   </div>
 
 
