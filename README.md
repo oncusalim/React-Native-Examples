@@ -9,7 +9,11 @@ This repository contains basic example of React-Native.
 <img src="images/custom-component.png" width="300" height="600" >
 <img src="images/flex.png" width="300" height="600" >
   <img src="images/props-component.png" width="300" height="600" >
-  ![caption](images/counter.mov / GIF)
+ <video width="300" height="600" autoplay>
+  <source src="images/counter.mov" type="video/mp4">
+
+
+</video>
   </div>
 
 
