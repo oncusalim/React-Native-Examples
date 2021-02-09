@@ -14,7 +14,7 @@ This repository contains basic example of React-Native.
   <div>
 <img src="images/props-component.png" width="300" height="600" >
 <img src="images/counter.gif" width="220" height="450" >
-  <img src="images/email-validation.png" width="220" height="450" >
+  <img src="images/email-validation.png" width="300" height="600" >
 
 
   </div>
