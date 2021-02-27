@@ -8,8 +8,8 @@ This repository contains basic example of React-Native.
 6) Email and Password entering page example. This app has Email validation function. 
 <div>
 <img src="images/hello.png" width="230" height="450">
-<img src="images/custom-component.png" width="300" height="600" >
-<img src="images/flex.png" width="300" height="600" >
+<img src="images/custom-component.png" width="280" height="560" >
+<img src="images/flex.png" width="280" height="560" >
   </div>
   <div>
 <img src="images/props-component.png" width="300" height="600" >
